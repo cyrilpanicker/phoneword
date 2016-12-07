@@ -1,0 +1,2 @@
+D:\x\Phoneword\Phoneword\Phoneword.UWP\Phoneword.UWP.csproj;x86
+D:\x\Phoneword\Phoneword\Phoneword\Phoneword.csproj;neutral
